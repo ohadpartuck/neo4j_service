@@ -1,0 +1,17 @@
+{
+    "development":{
+        "services": {
+            "api": {
+                "url" : "http://localhost:9000/"
+            }
+        }
+    },
+    "production":{
+        "services": {
+            "api": {
+                "url" : "http://localhost:9000/"
+            }
+        }
+    }
+
+}
